@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8EwfrZvJdZHn/4sBWVSllhSEh15tmTCrC8ZduMJysR4=",
+  "Source": "Uranus.Api",
+  "BasePath": "_content/Uranus.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
